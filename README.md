@@ -33,16 +33,16 @@
 - После запуска проекта, в консоли появились логи с информацией: 
 
 - Для OR:
-![image]([https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/OR_Scene.png))
+![image](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/OR_Scene.png)
 
 - Для AND:
-![image]([https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/AND_Scene.png))
+![image](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/AND_Scene.png)
 
 - Для NAND:
-![image]([https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/NAND_Scene.png))
+![image](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/NAND_Scene.png)
 
 - Для XOR:
-![image]([https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/XOR_Scene.png))
+![image](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/XOR_Scene.png)
 
 - Скрипт Персептрона из репозитория:
 ```cs
@@ -156,7 +156,7 @@ public class Perceptron : MonoBehaviour
 - Я собрал информацию с логов после каждого запуска персептрона для всех логических случаев:
 - Персептрон отлично обучается, к 6 эпохе не делает ошибок, кроме случая в XOR, с повышением эпохи делает ошибок больше:
 
-![image](https://github.com/knightalli/DAinGD-lab4/assets/127225486/058b7773-5643-4160-950a-0e25dd2bead9)
+![image](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/%D0%97%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C.png)
 
 
 
