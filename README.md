@@ -33,16 +33,16 @@
 - После запуска проекта, в консоли появились логи с информацией: 
 
 - Для OR:
-![image](https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac)
+![image]([https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/OR_Scene.png))
 
 - Для AND:
-![image](https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac)
+![image]([https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/AND_Scene.png))
 
 - Для NAND:
-![image](https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac)
+![image]([https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/NAND_Scene.png))
 
 - Для XOR:
-![image](https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac)
+![image]([https://github.com/knightalli/DAinGD-lab4/assets/127225486/f3617045-cd57-42fc-a1a4-1edc2e7bb1ac](https://github.com/SoMNuS65/DA_in_GameDev_Lab_4/blob/main/XOR_Scene.png))
 
 - Скрипт Персептрона из репозитория:
 ```cs
